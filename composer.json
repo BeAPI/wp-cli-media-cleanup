@@ -1,0 +1,25 @@
+{
+  "name":"bea/wp-cli-media-cleanup",
+  "description":"A WP-CLI command for remove invalid (nonexistent files) medias from WordPress.",
+  "keywords":[
+    "uploads",
+    "cleanup",
+    "find",
+    "media",
+    "usage"
+  ],
+  "homepage":"https://github.com/BeAPI/wp-cli-media-cleanup",
+  "authors":[
+    {
+      "name":"Be API",
+      "email":"technique@beapi.fr",
+      "homepage":"https://beapi.fr/"
+    }
+  ],
+  "type":"wordpress-plugin",
+  "minimum-stability":"stable",
+  "license":"GPL-3.0+",
+  "require":{
+    "php":">=5.4.0"
+  }
+}
